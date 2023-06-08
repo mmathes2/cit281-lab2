@@ -1,4 +1,5 @@
 # cit281-lab2
+learning how to use GIIIIIITTTTTT (git) 
 ## Use CLI commands for directory and file manipulation
 ## Use CLI commands for git commands
 ## Part 0: Setup git user credentials
